@@ -1,4 +1,4 @@
-# Music waveform visualization
+# Frontend Saarthi.ai Assignment
 
 
 ## Built with
